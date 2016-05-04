@@ -1,0 +1,19 @@
+{
+  "name": "jquery.ui.position",
+  "version": "1.11.4",
+  "description": "jquery.ui.position for NPM",
+  "main": "jquery-ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidjamesstone/jquery.ui.position.git"
+  },
+  "author": "davidjamesstone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidjamesstone/jquery.ui.position/issues"
+  },
+  "homepage": "https://github.com/davidjamesstone/jquery.ui.position#readme"
+}
