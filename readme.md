@@ -1,4 +1,4 @@
-# jquery.ui.position
+# jquery-ui-position
 
 Useful positioning algorithm from the [jquery ui](https://jqueryui.com/position/)
 
