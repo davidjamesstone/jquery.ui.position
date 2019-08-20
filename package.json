@@ -1,5 +1,5 @@
 {
-  "name": "jquery-ui-position",
+  "name": "@rafael.baron/jquery-ui-position",
   "version": "1.12.1",
   "description": "Jquery UI Position 1.12.1 for NPM",
   "main": "jquery-ui.js",
