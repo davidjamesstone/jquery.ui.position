@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/davidjamesstone/jquery.ui.position.git"
+    "url": "https://github.com/rbaronc/jquery.ui.position.git"
   },
-  "author": "davidjamesstone",
+  "author": "rbaronc",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/davidjamesstone/jquery.ui.position/issues"
+    "url": "https://github.com/rbaronc/jquery.ui.position/issues"
   },
-  "homepage": "https://github.com/davidjamesstone/jquery.ui.position#readme"
+  "homepage": "https://github.com/rbaronc/jquery.ui.position#readme"
 }
